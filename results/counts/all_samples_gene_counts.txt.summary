@@ -1,0 +1,15 @@
+Status	/mnt/d/RNAseq/alignment/SRR031708.sorted.bam	/mnt/d/RNAseq/alignment/SRR031712.sorted.bam	/mnt/d/RNAseq/alignment/SRR031713.sorted.bam	/mnt/d/RNAseq/alignment/SRR031720.sorted.bam	/mnt/d/RNAseq/alignment/SRR031721.sorted.bam	/mnt/d/RNAseq/alignment/SRR031722.sorted.bam
+Assigned	3268501	3662581	3216256	2932969	3766196	3449617
+Unassigned_Unmapped	2258458	2307028	2960821	3229487	2489352	2298533
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	339253	274885	213651	461314	471170	378745
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	172447	208505	183986	224312	278394	247902
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	38905	44535	40189	45102	56486	51386

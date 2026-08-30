@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR031708	/mnt/d/RNAseq/qc_trimmed/SRR031708.trimmed_fastqc.zip
+FastQC	all_sections	SRR031712	/mnt/d/RNAseq/qc_trimmed/SRR031712.trimmed_fastqc.zip
+FastQC	all_sections	SRR031713	/mnt/d/RNAseq/qc_trimmed/SRR031713.trimmed_fastqc.zip
+FastQC	all_sections	SRR031720	/mnt/d/RNAseq/qc_trimmed/SRR031720.trimmed_fastqc.zip
+FastQC	all_sections	SRR031721	/mnt/d/RNAseq/qc_trimmed/SRR031721.trimmed_fastqc.zip
+FastQC	all_sections	SRR031722	/mnt/d/RNAseq/qc_trimmed/SRR031722.trimmed_fastqc.zip

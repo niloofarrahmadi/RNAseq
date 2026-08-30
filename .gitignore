@@ -1,0 +1,30 @@
+# Raw and processed sequencing data
+raw_sra/
+fastq/
+trimmed/
+
+# Alignment files
+alignment/*.bam
+alignment/*.bai
+alignment/*.sam
+
+# Temporary files
+tmp_sra/
+tmp/
+*.tmp
+
+# Python virtual environment
+.multiqc-venv/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large intermediate files
+counts/test/
