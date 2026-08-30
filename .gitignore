@@ -28,3 +28,16 @@ Thumbs.db
 
 # Large intermediate files
 counts/test/
+
+# Reference genome and HISAT2 index
+reference/
+
+# Temporary/test outputs
+counts/test/
+
+# Alignment logs
+alignment/logs/
+
+# Local analysis duplicates
+analysis/
+counts/
